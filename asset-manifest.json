@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-js-coin-converter/static/css/main.e9d1c195.chunk.css",
+    "main.js": "/react-js-coin-converter/static/js/main.f9df3b16.chunk.js",
+    "main.js.map": "/react-js-coin-converter/static/js/main.f9df3b16.chunk.js.map",
+    "runtime-main.js": "/react-js-coin-converter/static/js/runtime-main.551d5947.js",
+    "runtime-main.js.map": "/react-js-coin-converter/static/js/runtime-main.551d5947.js.map",
+    "static/js/2.ed22e86f.chunk.js": "/react-js-coin-converter/static/js/2.ed22e86f.chunk.js",
+    "static/js/2.ed22e86f.chunk.js.map": "/react-js-coin-converter/static/js/2.ed22e86f.chunk.js.map",
+    "index.html": "/react-js-coin-converter/index.html",
+    "precache-manifest.8812b620d4247ad46c66cab727c4003d.js": "/react-js-coin-converter/precache-manifest.8812b620d4247ad46c66cab727c4003d.js",
+    "service-worker.js": "/react-js-coin-converter/service-worker.js",
+    "static/css/main.e9d1c195.chunk.css.map": "/react-js-coin-converter/static/css/main.e9d1c195.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.551d5947.js",
+    "static/js/2.ed22e86f.chunk.js",
+    "static/css/main.e9d1c195.chunk.css",
+    "static/js/main.f9df3b16.chunk.js"
+  ]
+}
