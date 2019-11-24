@@ -35,7 +35,7 @@ export default class Converter extends Component {
     render() {
         return (
             <div className="converter">
-                <h2>{this.props.coinA} para {this.props.coinB}</h2>
+                <h2>{this.props.coinA} to {this.props.coinB}</h2>
                 <input type="text" onChange={ (event)=>{this.setState({coinA_value:event.target.value})} }></input>
                 <input type="button" value="Converter" onClick={this.converter} ></input>
                 <h2>{this.state.coinB_value}</h2>
