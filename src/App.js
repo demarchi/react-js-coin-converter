@@ -6,7 +6,7 @@ import Conversor from "./components/converter"
 function App() {
   return (
     <div className="App">
-      <h1>Coin Converter</h1>
+      <h1>Coin Converter in React JS</h1>
       <div className="row">
         <Conversor coinA="GBP" coinB="BRL"></Conversor>
         <Conversor coinA="BRL" coinB="GBP"></Conversor>
